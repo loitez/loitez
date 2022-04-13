@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **loitez@mail.ru** or telegram: **@loitez**
+- 📫 How to reach me **loitez@mail.ru** or telegram: <a href="https://t.me/loitez">**@loitez**</a>
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NFuvB_21rmvwsmOowQ1st3s_yes2JSJW/view?usp=sharing](https://drive.google.com/file/d/1NFuvB_21rmvwsmOowQ1st3s_yes2JSJW/view?usp=sharing)
 
